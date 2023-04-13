@@ -1,3 +1,19 @@
+/*
+2 em significa 2 veces el tamaño de la fuente especificada
+2 rem 2 veces el tamaño de fuente especificado el selector universal
+*/
+
+/* BOX MODEL
+padding -- entre contenido y borde
+border -- entre el padding y margin
+margin -- espacio entre cabajas
+
+top --  arriba
+bottom -- abajo
+right --derecha
+left -- izquierda
+*/
+
 h1{
     color: yellow;
     border-style: solid;
