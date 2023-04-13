@@ -1,0 +1,24 @@
+#titulo{
+    color: black;
+    font-size: 50px;
+}
+
+.rojo {
+    color: red;
+}
+
+p.borde{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+h1.borde{
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+*{
+    color: green;
+}
